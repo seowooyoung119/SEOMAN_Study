@@ -1,0 +1,13 @@
+[/Script/Engine.StreamingSettings]
+s.PriorityAsyncLoadingExtraTime=275.0
+s.LevelStreamingActorsUpdateTimeLimit=250.0
+s.PriorityLevelStreamingActorsUpdateExtraTime=250.0
+
+[/Script/UnrealEd.ProjectPackagingSettings]
+bCompressed=False
+BuildConfiguration=PPBC_Development
+bShareMaterialShaderCode=True
+bSharedMaterialNativeLibraries=True
+bSkipEditorContent=True
+
+권장 스트리밍 세팅과 권장 패키징 세팅
